@@ -1,4 +1,6 @@
-# Sports Video Summarization Based On Audience Reaction
+# Projects
+
+## Sports Video Summarization Based On Audience Reaction
 
 [Code](https://github.com/DebasmitaGhose/Highlight-Detection-in-Sports-Videos-using-Audience-Reaction/blob/master/action.py) | [Report](https://github.com/DebasmitaGhose/Highlight-Detection-in-Sports-Videos-using-Audience-Reaction/blob/master/automated-sports-highlight.pdf) | [Video](https://www.youtube.com/watch?v=y4Wt10KcIe8&feature=youtu.be)
 
