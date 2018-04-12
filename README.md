@@ -28,6 +28,8 @@ Link to the Dataset: [GeoLife Dataset](https://www.microsoft.com/en-us/download/
 
 ## Drone Assisted Parking System
 
+[Report](https://github.com/DebasmitaGhose/Projects/blob/master/Final%20Report%20Drone%20(Recovered).pdf)
+
 The aim of this project was to develop a system that can assist drivers in finding a suitable parking spot in an open parking lot and can help him assess the traffic conditions on the road ahead of him. For this, I proposed an idea of developing a drone, which can take off and land from a moving car at the discretion of the driver, and send live video feed to the driver. The drone should identify the right car while landing and the battery used for the drone should be charged wirelessly from the car.
 
 In a period of 3 months, I was able to successfully build an octocopter using the Pixhawk V4 flight controller. The drone has a flight time of about 20 min at the current weight and has a maximum payload capacity of 8kg. The drone is capable of taking off and landing autonomously from a surface and is GPS enabled. All the safety features provided by the Pixhawk V4 controller are enabled and tested. I have also designed a suitable landing gear for the drone using Plexi Glass. I also designed a circuit for a wireless charger for a single cell Lithium Polymer battery using EAGLE CAD.
@@ -36,6 +38,8 @@ This was done as an individual project as a part of an internship at the School 
 Mechatronics, Techniche Universitat, Dresden, Germany
 
 ## Road Accident Prevention System
+
+[Paper] (https://github.com/DebasmitaGhose/Projects/blob/master/Cost%20Effective%20Road%20Accident%20Prevention%20System.pdf)
 
 The aim of this project was to develop a system that can minimize road accidents. Our team
 of 3 designed a system that chalks out the major causes of road accidents and attempts to
