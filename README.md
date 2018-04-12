@@ -62,3 +62,74 @@ on the Intel NUC.
 Our team of 3 was selected among the top 10 teams of Atmel Embedded Design Challenge
 2014 for this project. A research paper on this project has been selected for the 2nd
 International Conference on Contemporary Computing and Informatics, 2016.
+
+## Safety Mechanism for Treadmills using Heart Rate Sensor
+
+[Paper](https://github.com/DebasmitaGhose/Projects/blob/master/IRJET-V3I552.pdf)
+
+The aim of this project was to devise a safety mechanism for treadmills that can prevent
+untimely deaths of people in fitness centres. Our team of 3 designed a prototype of a
+treadmill using 2 DC motors synchronised using a belt drive. The system designed asks for
+certain health parameters from the user, and sets the threshold for the maximum allowable
+heart rate. If the heart rate of the user exceed the threshold at some point in time during the
+course of the exercise, the speed of the treadmill is gradually reduced, the user is not allowed
+to increase the speed of the treadmill until his heart rate is below the threshold.
+My role in this project was to design the prototype of the treadmill and to program the
+controller to take in and process data from the user.
+
+## Braille Reader
+
+Built a device that enables the visually impaired to read. It consists of a camera, which scans
+the characters on any written material, converts it into its Braille equivalent using a MATLAB
+program and ejects the suitable dots on a panel placed, using servo motors. This enables
+the visually impaired to read whatever is placed under the reader.
+
+My role in this project was to design a suitable actuation mechanism for the ejection of the
+braille dots on the panel.
+
+Our team of 4, won the best project award at INK Makers Make-A-Thon, 2016 for this project.
+
+## Amphibious Rescue and Surveillance Hovercraft
+
+The aim of this project was to build an amphibious robot that can help the victims of a natural
+calamity who are stuck in an inaccessible area. For this, our team of 3 designed and built a
+hovercraft capable of traversing autonomously to inaccessible locations and perform live
+environmental monitoring. This was performed by the Waspmote Gas Sensor board, which
+has inbuilt temperature, CO2 and O2 sensors and the XBee module. The sensor data
+captured from the environment is sent via the XBee module to the ground station.
+
+The real time video feed from this vehicle to a ground station would assist the rescue team
+in planning and executing their operations efficiently. The live video feed was captured using
+a camera which was connected to the Intel Galileo board. This was transmitted the the
+ground station using Wi-Fi.
+
+My primary role in this project was to program the Waspmote gas sensor board for capturing
+sensor data and transmitting using the Zig-Bee protocol.
+
+This project was awarded as the best project at the Intel India Embedded Challenge in the
+category Internet of Things and Intelligent Systems.
+
+## Cargo Aligning Robot using Firebird V Robotics Research Platform
+
+The aim of this project was to build a cargo-aligning robot using the FireBird V robotics
+research platform. This platform utilizes microcontrollers Atmega 2560 and Atmega 8 which
+was programmed on AVR Studio 4 using Embedded C. The robot was programmed to
+traverse on a predefined path and the find the optimal route between its source and
+destination. Our team of 4 designed and built a robotic arm to pick up, turn and drop cargo
+blocks.
+
+My role in this project was to design and implement algorithms to find the shortest path
+between the source and destination and to ensure that the robot does not deviate from the
+predefined path.
+
+This project was a part of the e-Yantra National Robotics Competition conducted by Indian
+Institute of Technology, Bombay.
+
+## Quadcopter
+
+The aim of this project was to build a quadcopter in order to learn the basic controls of flying
+a quadcopter.I used NAZA M-Lite Flight Controller, a standard quadcopter chasis kit, brushless DC
+motors, electronic speed controllers, wireless camera and Tx-Rx kit.
+
+This was an individual project done as a part of a summer internship program conducted by
+Indian Institute of Technology, Guwahati and Robosapiens Technologies, Delhi
