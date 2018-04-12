@@ -26,3 +26,35 @@ In order to achieve these results, Weka Machine Learning Toolkit, ArcGIS, MS Exc
 
 Link to the Dataset: [GeoLife Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=52367&from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fdownloads%2Fb16d359d-d164-469e-9fd4-daa38f2b2e13%2F)
 
+## Drone Assisted Parking System
+
+The aim of this project was to develop a system that can assist drivers in finding a suitable parking spot in an open parking lot and can help him assess the traffic conditions on the road ahead of him. For this, I proposed an idea of developing a drone, which can take off and land from a moving car at the discretion of the driver, and send live video feed to the driver. The drone should identify the right car while landing and the battery used for the drone should be charged wirelessly from the car.
+
+In a period of 3 months, I was able to successfully build an octocopter using the Pixhawk V4 flight controller. The drone has a flight time of about 20 min at the current weight and has a maximum payload capacity of 8kg. The drone is capable of taking off and landing autonomously from a surface and is GPS enabled. All the safety features provided by the Pixhawk V4 controller are enabled and tested. I have also designed a suitable landing gear for the drone using Plexi Glass. I also designed a circuit for a wireless charger for a single cell Lithium Polymer battery using EAGLE CAD.
+
+This was done as an individual project as a part of an internship at the School of Vehicle
+Mechatronics, Techniche Universitat, Dresden, Germany
+
+## Road Accident Prevention System
+
+The aim of this project was to develop a system that can minimize road accidents. Our team
+of 3 designed a system that chalks out the major causes of road accidents and attempts to
+prevent them. The system has a driver drowsiness detection system, to check the state of
+the driver. This uses the Intel Real Sense camera to measure the percentage closure of
+eyes and to detect if the person is yawning. This is connected to the Intel NUC, which alerts
+the driver using audio stimulus, if he is found to be drowsy.
+
+It also detects if the driver is under the influence of alcohol and if he has fastened the seat
+belt. The sensors for these are connected to the Atmel SAM D21 microcontroller which is in
+turn connected to the Intel NUC. If the driver is found to violate any rules, the NUC alerts the
+driver. The system also checks if the driver is tailgating or if somebody is tailgating from
+behind. If the driver is found to be tailgating repeatedly, the driver is warned and if needed,
+the details of the car are sent to the nearest police station using Wi-Fi for further action.
+
+My role in this project was to realise face detection and eye detection using the Intel Real
+Sense camera and to integrate all the modules of the project using a C# program running
+on the Intel NUC.
+
+Our team of 3 was selected among the top 10 teams of Atmel Embedded Design Challenge
+2014 for this project. A research paper on this project has been selected for the 2nd
+International Conference on Contemporary Computing and Informatics, 2016.
