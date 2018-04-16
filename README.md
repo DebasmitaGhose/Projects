@@ -41,7 +41,7 @@ Mechatronics, Techniche Universitat, Dresden, Germany
 
 ## Road Accident Prevention System
 
-[Paper](https://github.com/DebasmitaGhose/Projects/blob/master/Cost%20Effective%20Road%20Accident%20Prevention%20System.pdf)
+[Paper](https://github.com/DebasmitaGhose/Projects/blob/master/Cost%20Effective%20Road%20Accident%20Prevention%20System.pdf) | [Video](https://www.youtube.com/watch?v=op22g2GT2LY)
 
 The aim of this project was to develop a system that can minimize road accidents. Our team
 of 3 designed a system that chalks out the major causes of road accidents and attempts to
