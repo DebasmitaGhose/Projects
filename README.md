@@ -4,7 +4,28 @@
 
 # [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/)
 
+## Telekinesis: Multi-User Multi-Class Classification of EEG Data
+
+<span style="color:blue">New Project: Code Coming Soon...</span>
+
+For people with severe motor disabilities, independent mobility is one of their biggest challenges. For people not capable
+of operating manual or remote controlled wheelchairs are heavily dependent on their attendants for all their basic needs.
+Therefore, there is a need for developing smart brain controlled wheelchairs which can help such people with basic movements
+without assistance. The project will generalise the use of EEG (electroencephalography) data for various multi user multi
+class classification tasks. Currently most EEG applications involve training and testing the classifier on the subject′s own
+data, which makes it hard for Brain Controlled devices to be ubiquitous.
+In order to do that, we used a Convolutional Neural Network on a 64 channel EEG Motor Imagery dataset from PhysioNet
+to train a Convolutional Neural Network (CNN) that takes in learned representations of the data which are built using an
+Auto-Encoder and obtained a classification accuracy of 75% when trained and tested on different dataset. We also run a user
+study using the Emotiv EPOC+ Headset to collect data under similar conditions as the training dataset, and test our network
+and obtain a classification accuracy of 65%
+
+Link to the Dataset: [PhysioNet Motor Imagery Dataset](https://www.physionet.org/pn4/eegmmidb/)
+
+
 ## A Comparative Study of Architectures for 2D Image Semantic Segmentation
+
+<span style="color:blue">New Project: Code Coming Soon...</span>
 
 Semantic Segmentation involves understanding the image
 on a pixel-by-pixel level i.e. to assign a class label to
@@ -25,7 +46,9 @@ to show significant improvements in segmentation on the
 PASCAL VOC 2012 dataset.
 We also modify the U-Net architecture for multi-class
 semantic segmentation with pre-trained weights from the
-VGG-16 architecture trained on the ImageNet dataset
+VGG-16 architecture trained on the ImageNet dataset. 
+
+Link to the Dataset: [PASCAL VOC-2012](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
 
 ## Sports Video Summarization Based On Audience Reaction
 
