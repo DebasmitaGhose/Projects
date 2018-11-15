@@ -6,7 +6,7 @@
 
 ## Telekinesis: Multi-User Multi-Class Classification of EEG Data
 
-<span style="color:blue">New Project: Code Coming Soon...</span> | [Report](https://github.com/DebasmitaGhose/Projects/blob/master/FinalReport-Telekinesis.pdf)
+[Code](https://github.com/snehabhattacharya/telekinesis)| [Report](https://github.com/DebasmitaGhose/Projects/blob/master/FinalReport-Telekinesis.pdf)
 
 For people with severe motor disabilities, independent mobility is one of their biggest challenges. For people not capable
 of operating manual or remote controlled wheelchairs are heavily dependent on their attendants for all their basic needs.
@@ -25,7 +25,7 @@ Link to the Dataset: [PhysioNet Motor Imagery Dataset](https://www.physionet.org
 
 ## A Comparative Study of Architectures for 2D Image Semantic Segmentation
 
-<span style="color:blue">New Project: Code Coming Soon...</span> | [Report](https://github.com/DebasmitaGhose/Projects/blob/master/Project%20Report.pdf)
+[Code](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation) | [Report](https://github.com/DebasmitaGhose/Projects/blob/master/Project%20Report.pdf)
 
 Semantic Segmentation involves understanding the image
 on a pixel-by-pixel level i.e. to assign a class label to
