@@ -2,7 +2,7 @@
 
 
 
-# [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://debasmitaghose.github.io/Robots/)
+## [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://debasmitaghose.github.io/Robots/)
 
 ## Telekinesis: Multi-User Multi-Class Classification of EEG Data
 
