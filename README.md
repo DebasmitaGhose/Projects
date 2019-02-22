@@ -4,6 +4,19 @@
 
 ## [About](https://debasmitaghose.github.io/Debasmita-Ghose/) | [CV](https://debasmitaghose.github.io/CV/) | [Robots](https://debasmitaghose.github.io/Robots/)
 
+## A Deep Learning Method for Reducing False Positives in Load Cell Readings for Grasping 
+
+<span style="color:red">**Code Coming Soon!!** </span>
+
+Load cells are attached to end effector of robots to measure the forces and moments while the end effector of the robotic arm is in contact with an object. Ideally, we should observe forces and moments only when there is an actual contact between the load cell and the object, but, we have observed that the inertial and gravitational load felt by the robot, while it is moving its arms without making contact with the object is significant. This induces errors in the force and torque values obtained from the sensors, making it difficult to trust the force and torque feedback we get from these sensors to build a closed loop controller for grasping. Therefore, the idea is to build a bi-directional LSTM based compensator, that can decouple the different forces experienced by the force/torque sensors, which will ideally compensate for the effect of gravity, inertia and drift on the load cell. This is being done using the data collected from the ATI-Mini45 force/torque sensor and uBot-6 at Laboratory of Perceptual Robotics, UMass Amherst. 
+
+## Pedestrian Detection on Infrared Images using Object Detection Frameworks
+
+<span style="color:red">**Code Coming Soon!!** </span>
+
+In this project, we explore the task of pedestrian detection using only thermal imagery. Until now, most of the best-performing architectures on pedestrian detection have involved the use of combinations of color[RGB] and thermal imagery. The reason this works well in practice is that, when using RGB images, detectors are able to leverage the color information and hence work well for data captured during the day  , while thermal images are sensitive to the heat signature present in the image, thus offering complementary information that helps handle data collected at night. This complementary potential has motivated the use of fusion networks leveraging both the types of images. In certain use cases, the privacy of the individual is of primary concern, thus preventing the use of RGB images. Hence, we introduce a model that relies only  on thermal images to detect pedestrians using the Faster R-CNN and YOLO v3 frameworks. Pedestrian detection in thermal images is particularly challenging because thermal images contain very little texture as compared to  RGB images, which leads to a lot of failed detections. In order to compensate for that, our approach incorporates saliency maps of these (thermal) images, which highlights the edges of the objects in the scene and to the best of our knowledge, this approach has never been used to improve the performance of pedestrian detectors. 
+
+
 ## Telekinesis: Multi-User Multi-Class Classification of EEG Data
 
 [Code](https://github.com/snehabhattacharya/telekinesis)| [Report](https://github.com/DebasmitaGhose/Projects/blob/master/FinalReport-Telekinesis.pdf)
