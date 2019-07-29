@@ -196,3 +196,6 @@ motors, electronic speed controllers, wireless camera and Tx-Rx kit.
 
 This was an individual project done as a part of a summer internship program conducted by
 Indian Institute of Technology, Guwahati and Robosapiens Technologies, Delhi
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fdebasmitaghose.github.io%2FProjects%2F)
